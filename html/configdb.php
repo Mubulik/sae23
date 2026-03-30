@@ -1,7 +1,7 @@
 <?php
-   $user="neticar";
-   $password="NeticarRT9025!";
+   $user="**********";
+   $password="*********";
    $host="localhost";
-   $database="neticar";
+   $database="********";
 ?>
 
